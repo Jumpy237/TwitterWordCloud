@@ -1,8 +1,9 @@
 # TwitterWordCloud
 assignment from big data class
 
-using : 
+using : <Br>
 worldcloud https://github.com/amueller/word_cloud <br>
 Twitter api <br>
 
-![result](../master/result.png)
+## Result:
+![result](../master/result.PNG)
